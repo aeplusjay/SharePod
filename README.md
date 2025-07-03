@@ -34,7 +34,9 @@
 
 ## 📸 Screenshots
 
-*(Optional: Add GIFs or screenshots of upload UI, download page, QR code view, etc.)*
+![screencapture-sharepod-vercel-app-upload-2025-07-03-08_16_41](https://github.com/user-attachments/assets/3eb0a306-da8a-43bd-a725-612bca6fb5da)
+
+![Screenshot_3-7-2025_81925_sharepod vercel app](https://github.com/user-attachments/assets/d9c692b4-aaf3-41d2-bae8-ec5fef4f0f3b)
 
 ---
 
